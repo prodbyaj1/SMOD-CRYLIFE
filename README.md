@@ -7,8 +7,7 @@
 SMOD CRYLIFE, removed from moddb due to steampipe reasons, I recently found this in my old hard drive when I was looking for something, so I decided to reupload it here on github.
 
 
-I don't have version 2.0 at the moment, but if I do find it i'll upload it here.
+I don't have version 2.0 at the moment, but if I do find it i'll upload it here, or if someone has it please send it to me on Discord, User: aj.xmodel.
 
-
-If Pepsilover04 wishes for this repostiory to be removed, please dm me privately on discord (aj.xmodel) and I will gladly take it down.
+If Pepsilover04 wishes for this repostiory to be removed, please dm me privately on Discord and I will gladly take it down.
 
