@@ -4,7 +4,7 @@
 
 
 
-SMOD CRYLIFE 1.5.9, removed from moddb due to steampipe reasons, I recently found this in my old hard drive when I was looking for something, so I decided to reupload it here on github.
+SMOD CRYLIFE, removed from moddb due to steampipe reasons, I recently found this in my old hard drive when I was looking for something, so I decided to reupload it here on github.
 
 
 Sadly, I don't have version 2.0, but if I do find it i'll upload it here.
